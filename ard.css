@@ -1,0 +1,31 @@
+body {  background-image:url('https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQfVSDNnTFDP997RHf3rkgqI35V3GmCk7K0zC4npVSGTycXmni0iA');
+	margin:50px 0px; padding:0px;
+	text-align:center;
+	}
+h1
+{ 
+text-align: center;
+font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+}
+a
+{
+text-decoration:none;
+width:150px;
+height:50px;
+border-color:black;
+border-top:1px solid;
+border-bottom:1px solid;
+border-right:1px solid;
+border-left:1px solid;
+border-radius:1px 10px 10px;
+-o-border-radius:10px 10px 10px;
+-webkit-border-radius:10px 10px 10px;
+font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+-moz-border-radius:10px 10px 10px;
+background-color:DimGray ;
+padding:20px;
+text-align:center;
+}
+a:link {color:black;}      /* unvisited link */
+a:visited {color:white;}  /* visited link */
+a:hover {color:white;}  /* mouse over link */
